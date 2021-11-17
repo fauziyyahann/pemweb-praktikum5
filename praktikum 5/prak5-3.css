@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+.atas {
+    width: 900px;
+    height: 150px;
+    margin: auto;
+}
+
+.satu {
+    width: 800px;
+    height: 150x;
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.yellow {
+    height: 90px;
+    width: 150px;
+    background-color: yellow;
+}
+
+.orange {
+    height: 90px;
+    width: 650px;
+    background-color: orange;
+    float: left;
+}
+
+.tengah {
+    width: 900px;
+    height: 500px;
+    margin: auto;
+}
+
+.dua {
+    width: 800px;
+    height: 470px;
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.olive {
+    height: 450px;
+    width: 150px;
+    background-color: olive;
+}
+
+.grey {
+    height: 450px;
+    width: 460px;
+    background-color: gray;
+}
+
+.skyblue {
+    height: 450px;
+    width: 150px;
+    background-color: skyblue;
+}
+
+.bawah {
+    height: 150px;
+    width: 900px;
+    margin: auto;
+}
+
+.blue {
+    height: 90px;
+    width: 840px;
+    background-color: blue;
+    margin: 20px;
+    border: 2px solid black;
+}
